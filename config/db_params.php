@@ -1,9 +1,9 @@
 <?php
 // Массив с параметрами подключения к базе данных
 return array(
-	'host' => '127.0.0.0',
-	'dbname' => 'Users',
-	'user' => 'root',
-	'password' => '',
+	'host' => 'mysql.zzz.com.ua',
+	'dbname' => 'romannn',
+	'user' => 'romannn',
+	'password' => 'romannn1pO',
 	);
 ?>
