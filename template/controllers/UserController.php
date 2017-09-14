@@ -16,7 +16,7 @@ class UserController
                 // Получаем данные из формы
 				$name = $_POST['name'];
 				$email = $_POST['email'];
-				$password = $_POST['password']);
+				$password = $_POST['password'];
 			    // Флаг ошибок
 				$errors = false;
 				// Валидация полей
